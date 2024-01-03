@@ -1,4 +1,4 @@
-# Cookin Up 👩‍💻
+# Cookin Up 🍽️
 
 Desenvolvido como parte da formação em Vue da Alura, o projeto Cookin Up oferece uma abordagem única para descobrir receitas deliciosas. Com uma lista abrangente de ingredientes à sua disposição, a magia acontece quando você faz suas escolhas, desbloqueando um mundo de possibilidades culinárias.
 
