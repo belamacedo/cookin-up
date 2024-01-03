@@ -1,40 +1,34 @@
-# cookin-up
+# Cookin Up 👩‍💻
 
-This template should help get you started developing with Vue 3 in Vite.
+Desenvolvido como parte da formação em Vue da Alura, o projeto Cookin Up oferece uma abordagem única para descobrir receitas deliciosas. Com uma lista abrangente de ingredientes à sua disposição, a magia acontece quando você faz suas escolhas, desbloqueando um mundo de possibilidades culinárias.
 
-## Recommended IDE Setup
+Ao selecionar seus ingredientes preferidos, o Cookin Up apresenta uma lista personalizada de receitas, inspirando você a criar pratos incríveis. Esta plataforma não apenas simplifica a busca por novas ideias gastronômicas, mas também adiciona uma pitada de diversão e criatividade à sua experiência na cozinha. 🍽️✨
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Pré-requisitos 🛠️
 
-## Type Support for `.vue` Imports in TS
+Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+- Node.js
+- npm
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+## Instalação 🚀
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+1. Clone o repositório do projeto.
+2. Na raiz do projeto, execute o comando npm install para instalar as dependências do projeto.
 
-## Customize configuration
+# Como usar 🤔
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Desenvolvimento 🖥️
 
-## Project Setup
+Para executar o projeto em modo de desenvolvimento, execute o comando _npm run dev_.
 
-```sh
-npm install
-```
+## Build 🏗️
 
-### Compile and Hot-Reload for Development
+Para criar uma versão otimizada do projeto para produção, execute o comando _npm run build_. Isso criará uma pasta build na raiz do projeto com os arquivos otimizados para produção.
 
-```sh
-npm run dev
-```
+## Tecnologias utilizadas 🛠️
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+- [npm](https://www.npmjs.com/)
+- [Vue.js](https://vuejs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
